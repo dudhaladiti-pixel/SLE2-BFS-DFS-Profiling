@@ -15,7 +15,7 @@ Both algorithms are tested on the same graph.
 
 * Python
 * py-spy
-* GitHub
+
 
 ## Files
 
