@@ -2,12 +2,6 @@
 
 ## SLE-2: Empirical Performance Analysis
 
-**Course:** 02AML204 – Introduction to Artificial Intelligence
-**Student Name:** Aditi Dudhal
-**PRN:** 25UAM134
-**Project:** BFS vs DFS Performance Analysis
-**Profiling Tool:** py-spy
-
 ---
 
 ## 1. AI Tool Used
@@ -29,8 +23,6 @@ ChatGPT was used to:
 * Get guidance for preparing Python code.
 * Understand how to install and use py-spy.
 * Get guidance on generating py-spy profiling output and flame graphs.
-* Organize the GitHub repository and report structure.
-* Improve the explanation and presentation of the experimental results.
 
 ---
 
@@ -55,8 +47,8 @@ The actual experiment was performed by the student.
 
 The student:
 
-* Ran the BFS program.
-* Ran the DFS program.
+* Run the BFS program.
+* Run the DFS program.
 * Used the same graph for both algorithms.
 * Installed and used py-spy.
 * Generated BFS and DFS profiling results.
